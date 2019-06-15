@@ -1,0 +1,4 @@
+#Sat Jun 15 14:28:00 BRT 2019
+base.0=C\:\\Users\\danie\\Desktop\\Oministack-RocketSeat\\www\\semana-oministack-7\\aulas\\instarocket\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
